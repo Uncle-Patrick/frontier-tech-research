@@ -1,112 +1,89 @@
 # 前沿技术资讯摘要
 
-> 最近生成：2026-10-26 08:34 UTC。内容来自公开 RSS/Atom 源，由 GitHub Actions 自动更新。
+> 最近生成：2026-11-02 08:50 UTC。内容来自公开 RSS/Atom 源，由 GitHub Actions 自动更新。
 > 该摘要用于研究线索发现，不代表项目组对内容或结论的背书。
 
 ## AI
 
-- [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation](https://arxiv.org/abs/2610.31701)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive
-- [Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding
-- [Patronizing and Condescending Language Detection in English and Mandarin](https://arxiv.org/abs/2610.31808)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to
-- [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each
-- [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](https://arxiv.org/abs/2610.31846)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and comp
-- [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-desi
-- [Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows](https://arxiv.org/abs/2610.31916)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from langua
-- [Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?](https://arxiv.org/abs/2610.31918)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argu
+本轮没有返回条目。
 
 ## 量子计算
 
-- [Verified Pauli-Product Measurement Compilation for Fault-Tolerant Quantum Computation](https://arxiv.org/abs/2610.31694)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31694v1 Announce Type: new Abstract: Fault-tolerant quantum compilers implement gates through Pauli-product measurements and classical feedback. Verifying such a compiler requires reasoning about the quantum state and the recorded outcomes together: a correction reads 
-- [Mutual Information Across Quantum Reference Frame Perspectives](https://arxiv.org/abs/2610.31729)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31729v1 Announce Type: new Abstract: In quantum information theory, standard notions typically presuppose a fixed partition of the world into subsystems, encoded in a tensor product structure of the Hilbert space. Yet, in some scenarios, the subsystem structure is not 
-- [The Entire Quantum Computer on a Classical Leash](https://arxiv.org/abs/2610.31775)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31775v1 Announce Type: new Abstract: We show that a classical client with no quantum hardware can use a single untrusted and potentially malicious quantum server as if it were its own trusted quantum computer. Through the server, the client can privately choose and run
-- [Quantum Complexity and Stabilizer-State Expansions: From Pairing to Deformation in Fermionic Systems](https://arxiv.org/abs/2610.31792)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31792v1 Announce Type: new Abstract: Understanding how collective phenomena such as pairing and deformation emerge in interacting fermionic systems, and how the correlations underlying them shape the resources required for their simulation, is a central challenge in ma
-- [Temporal Degeneracy Limits Message Passing Decoding of QLDPC Codes Under Repeated Noisy Syndrome Measurements](https://arxiv.org/abs/2610.31877)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31877v1 Announce Type: new Abstract: Practical quantum computations can require logical error rates of $10^{-12}$ or lower. Quantum low-density parity-check (QLDPC) codes are promising candidates for reaching such rates with low qubit overhead, provided that their synd
-- [Optimal Control of a Fluxonium Circuit with the Q-PRONTO Numerical Method](https://arxiv.org/abs/2610.31885)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31885v1 Announce Type: new Abstract: Optimizing the control of large quantum systems is a resource-intensive task, where the convergence rate of the underlying iterative schemes is crucial. The recently developed Quantum Projection Operator-Based Newton Method for Traj
-- [Graphical Rigidity of Continuous Variable Graph States under Gaussian Local Transformations](https://arxiv.org/abs/2610.31933)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31933v1 Announce Type: new Abstract: Multimode entangled pure Gaussian states are an essential resource for continuous variable (CV) quantum information processing. Menicucci et al. [2011] have shown how to describe them as graphs with complex adjacency matrices. Among
-- [Fidelity Dynamics of a Jaynes--Cummings Qubit under Markovian and Non-Markovian Coupling Noise](https://arxiv.org/abs/2610.31938)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31938v1 Announce Type: new Abstract: We analytically investigate the fidelity dynamics of a Jaynes--Cummings qubit coupled to a single-mode cavity in the presence of stochastic fluctuations of the qubit--cavity coupling. Such fluctuations naturally arise in cavity- and
+- [Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver](https://arxiv.org/abs/2610.40693)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40693v1 Announce Type: new Abstract: Electromagnetic analysis based on the finite element method is widely used in antenna design. At higher frequencies, however, the required mesh refinement makes solving large sparse linear systems the main contributor to computation
+- [Finite-resource cooling of qudits beyond thermodynamic length](https://arxiv.org/abs/2610.40709)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40709v1 Announce Type: new Abstract: Cooling a quantum system with $N$ thermal machines costs more than Landauer's bound. For swap-based collision models the excess is set by thermodynamic length, which is optimal for qubits and was suggested by numerics to be optimal 
+- [Quantum manifestations of converse symmetry breaking](https://arxiv.org/abs/2610.40762)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40762v1 Announce Type: new Abstract: Quantum synchronization holds promise in advancing quantum technologies such as sensing, communication, and computation. A key challenge in this rapidly developing field is to identify mechanisms that can promote the emergence of sy
+- [A Universal Approach to Hydrodynamics in Higher Dimensions via Tensor Networks](https://arxiv.org/abs/2610.40776)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40776v1 Announce Type: new Abstract: Extracting late-time hydrodynamic transport properties directly from microscopic quantum models, especially in dimensions beyond one, is believed to be classically intractable. This owes, in part, to the extensive growth of entangle
+- [Fock-space delocalization and its control in scarred-vs-ergodic dynamics](https://arxiv.org/abs/2610.40805)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40805v1 Announce Type: new Abstract: Quantum many-body scarred dynamics in Rydberg-atom arrays is characterized by revivals, in which the system repeatedly returns to its initial state despite its many-body complexity. But how extensively does the wave function explore
+- [Liouvillian spectral snapshots: A reduced-subspace approach for time-dependent and noisy open quantum systems](https://arxiv.org/abs/2610.40808)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40808v1 Announce Type: new Abstract: Driven-dissipative quantum devices are routinely operated with time-dependent drives and exposed to temporally correlated classical noise. When these perturbations vary on timescales comparable to the system's intrinsic dynamics, ro
+- [Beyond the Kubo formula: unification of adiabatic and isothermal response in quantum systems](https://arxiv.org/abs/2610.40810)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40810v1 Announce Type: new Abstract: The static limit of the Kubo susceptibility describes the adiabatic response of an isolated quantum system, in which energy-level occupations remain unchanged, and generally differs from the isothermal susceptibility, where these oc
+- [Witnessing and quantifying stellar rank with the Wigner function](https://arxiv.org/abs/2610.40827)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40827v1 Announce Type: new Abstract: Quantifying non-Gaussianity is essential for assessing the computational power of bosonic quantum systems. We introduce a framework to witness and quantify non-Gaussianity from displaced parity measurements, and we directly apply it
 
 ## 机器人
 
-- [See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31762v1 Announce Type: new Abstract: What visual representation should a navigation policy act on? Navigation policies built on vision foundation models largely leave representation design to the encoders' pretraining objectives. We present RepresentNav, a navigation f
-- [FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://arxiv.org/abs/2610.31779)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31779v1 Announce Type: new Abstract: The life-cycle of robotics foundation models crucially depends on data labels. Outcome reward labels are needed for monitoring real-world deployments. Process reward labels are needed during RL post-training. Timestamped captions ar
-- [KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations](https://arxiv.org/abs/2610.31801)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31801v1 Announce Type: new Abstract: Segmenting robot demonstration data into disjoint temporal and semantic subsegments is valuable for learning, cleaning, retrieval, and analysis. Segmentation is often performed manually in a tedious and error prone process. Multimod
-- [PrefO2O: Zero-Shot Preference-Based Reinforcement Learning via Offline-to-Online Latent Preference Transfer](https://arxiv.org/abs/2610.31812)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31812v1 Announce Type: new Abstract: Preference-based reinforcement learning (PbRL) has emerged as a promising paradigm for learning robot behaviors aligned with human intent. However, its scalability is fundamentally limited by the need to collect expensive human pref
-- [SEVI: Safe Evidential Real-World Reinforcement Learning](https://arxiv.org/abs/2610.31829)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31829v1 Announce Type: new Abstract: Real-world reinforcement learning has enabled contact-rich manipulation tasks to be trained directly on physical robots, but unsafe interactions during online learning remain a key barrier to practical deployment. We propose Safe Ev
-- [WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations](https://arxiv.org/abs/2610.31834)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31834v1 Announce Type: new Abstract: Existing approaches for robot learning in simulation often require substantial manual effort to construct scenes and specify tasks, limiting training scalability and data diversity. Meanwhile, in-the-wild robot demonstrations natura
-- [FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.31841)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31841v1 Announce Type: new Abstract: Coding agents can translate language instructions into robot programs. For contact-rich manipulation, a key challenge is to generate and refine control logic that responds to physical interaction. We present FORCA, a coding agent th
-- [EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions](https://arxiv.org/abs/2610.31845)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31845v1 Announce Type: new Abstract: Scaling policy learning requires broad experience and reliable supervision. Robot demonstrations provide high-quality trajectory supervision but are costly to collect. Egocentric videos broaden task and environment coverage, yet mot
+- [WorldBridge: Bridging Video and Action for Task Generalization in World Action Models](https://arxiv.org/abs/2610.40748)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40748v1 Announce Type: new Abstract: Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challenge in World Action Models (WAMs) through two complementary capabilities: video g
+- [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40799v1 Announce Type: new Abstract: Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learning (RL) to master it. Code-as-pol
+- [From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation](https://arxiv.org/abs/2610.40828)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40828v1 Announce Type: new Abstract: Imitation learning policies are intended to make robotic manipulation robust to variations in object pose, appearance, and environment that challenge pre-programmed motion. However, real-world performance remains difficult to predic
+- [FlapSim: A Composable MuJoCo Simulation Platform and Reduced-Order Aerodynamic Model Hierarchy for Flapping-Wing Robotics](https://arxiv.org/abs/2610.40902)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40902v1 Announce Type: new Abstract: Flapping-wing simulation must reconcile high-frequency wingbeat aerodynamics with the slower dynamics relevant to flight control and reinforcement learning. We present FlapSim, a modular open-source MuJoCo simulation platform that c
+- [Confidence-Modulated Safety Filtering for End-to-End Policies](https://arxiv.org/abs/2610.40922)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40922v1 Announce Type: new Abstract: End-to-end policies, from task-specific controllers to robot foundation models, learn complex behavior from raw observations but are not guaranteed to remain safe, so they are often wrapped in a safety filter. The resulting system o
+- [STAR: Steering Action Representations during Inference](https://arxiv.org/abs/2610.41009)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.41009v1 Announce Type: new Abstract: Vision-language-action models (VLAs) map language instructions and visual observations to robot actions, showing strong capabilities across robotic manipulation tasks. However, in our probing experiment, we find that action represen
+- [Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds](https://arxiv.org/abs/2610.41028)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.41028v1 Announce Type: new Abstract: Robot-free human demonstrations offer a promising route to scaling dexterous manipulation data. The key challenge is to preserve the demonstrator's natural dexterity while producing contact-grounded observations and actions that tra
+- [Veloxity: Towards Memory-Safe UAV Embedded Firmware using the Rust Programming Language](https://arxiv.org/abs/2610.41053)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.41053v1 Announce Type: new Abstract: Recent years have witnessed increased momentum towards memory-safe programming languages for safety-critical systems. Memory-safe languages can eliminate entire classes of common software errors that have historically required exten
 
 ## Web3 与密码学
 
-- [Fooling LLM Safety Guards into Judging the Wrong Text](https://arxiv.org/abs/2610.31695)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31695v1 Announce Type: new Abstract: Safety guards check content before an LLM application acts on it, and most paste that content into a plain-text prompt. Content that imitates the prompt can append a second task, and the guard answers that one instead. We call this 
-- [Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability](https://arxiv.org/abs/2610.31713)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31713v1 Announce Type: new Abstract: Advances in Omni-modal Large Language Models (OLLMs) have enabled increasingly seamless human-AI interaction, but their unified processing of heterogeneous modalities also expands the attack surface, allowing adversaries to exploit 
-- [SILMARILS-MV: Information-Theoretically Secure Multi-Verifier Signatures with Dealer-Free Key Issuance and Linear Aggregation for Permissioned Blockchains](https://arxiv.org/abs/2610.31814)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31814v1 Announce Type: new Abstract: Permissioned blockchains authenticate transactions, votes and quorum certificates with computationally secure signatures, and post-quantum replacements inflate consensus traffic by orders of magnitude. Information-theoretic alternat
-- [Ulysses: A Security Harness For Synthesizing Verifiable Web Exploits](https://arxiv.org/abs/2610.31831)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31831v1 Announce Type: new Abstract: How can an AI agent automatically discover security vulnerabilities in any software repository? Existing approaches use LLMs to generate software vulnerability exploits. However, it is challenging for an LLM to reliably verify its o
-- [SEMPRE: Semantic-Aware Protocol Reverse Engineering via Consistency-Driven Joint Optimization](https://arxiv.org/abs/2610.31844)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31844v1 Announce Type: new Abstract: Protocol reverse engineering (PRE) is essential for understanding undocumented or proprietary communication formats, enabling security-critical tasks such as vulnerability discovery, malware C2 analysis, and IDS signature generation
-- [Incomparable Minima in Agent Tool Authorization](https://arxiv.org/abs/2610.31914)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31914v1 Announce Type: new Abstract: An agent that needs a tool needs authority to call it, and every proposal for governing that authority has to answer one question: of two grants that both let the agent finish a task, which one is smaller? Over-privilege benchmarks 
-- [Not an Accident: Exploiting Safety Filter Inadequacy in Humanoid Robots](https://arxiv.org/abs/2610.31923)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31923v1 Announce Type: new Abstract: As humanoid robots move from research laboratories toward deployment in human-centered environments such as homes, hospitals, and warehouses, safe operation around nearby people and objects becomes a fundamental requirement. Safety 
-- [Agentic AI Defense: Decode-Time Provenance Binding for MCP](https://arxiv.org/abs/2610.31974)
-  - 时间：Mon, 26 Oct 2026 00:00:00 -0400
-  - 摘要：arXiv:2610.31974v1 Announce Type: new Abstract: Agentic AI systems using the Model Context Protocol (MCP) are vulnerable to indirect prompt injection through untrusted tool outputs. We demonstrate cross-modal trust laundering, in which instructions concealed in an email-signature
+- [FGSM Attack Transferability from Simulation to Quantum Hardware in Network Intrusion Detection](https://arxiv.org/abs/2610.40701)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40701v1 Announce Type: new Abstract: Quantum computers are now available through cloud platforms, and recent work has proposed using them to detect network intrusions. It is not yet clear how easily such systems can be attacked. We train a hybrid variational quantum cl
+- [PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management](https://arxiv.org/abs/2610.40714)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40714v1 Announce Type: new Abstract: Autonomous LLM agents executing multi-step workflows over personal data often misalign with user privacy expectations and leak sensitive, out-of-context information. Although Contextual Integrity (CI) formalizes this problem, existi
+- [Characterizing LLM Agent Behaviors in Module Shadowing Environments](https://arxiv.org/abs/2610.40716)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40716v1 Announce Type: new Abstract: LLM agents operating in untrusted workspaces face the risk of untrusted code execution during routine tasks, yet final reports and workspace states alone cannot reliably establish whether execution occurred. We introduce an evaluati
+- [MetaVul: Agentic Harness Discovery for Vulnerability Detection](https://arxiv.org/abs/2610.40721)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40721v1 Announce Type: new Abstract: LLM agents are increasingly used to automate vulnerability detection, but reliable detection is challenging because agents must distinguish subtle, security-relevant fixes from benign code variation. While underlying LLM capability 
+- [RiskyPy: Toward Model-Calibrated Prompt Generation for Joint Security and Functionality Evaluation of LLM-Generated Code](https://arxiv.org/abs/2610.40735)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40735v1 Announce Type: new Abstract: Evaluating approaches that improve the security of LLM code generation requires datasets that jointly assess security and functionality and remain adapted to the capabilities of the models being studied. However, existing benchmarks
+- [Prevented is Not Protected: What Attack Success Rate Hides about RAG](https://arxiv.org/abs/2610.40742)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40742v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is vulnerable to knowledge poisoning, where adversaries manipulate retrieved evidence to influence model outputs. Existing defenses are primarily evaluated using attack success rate (ASR), which 
+- [CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN](https://arxiv.org/abs/2610.40744)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40744v1 Announce Type: new Abstract: With the progressive capabilities of large language models (LLMs), researchers are finding ways to integrate them into the control loops of Open Radio Access Network (O-RAN) to enable slicing and resource management through user int
+- [Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement](https://arxiv.org/abs/2610.40751)
+  - 时间：Mon, 02 Nov 2026 00:00:00 -0500
+  - 摘要：arXiv:2610.40751v1 Announce Type: new Abstract: Recursive self-improvement (RSI) enables large language models to advance their capabilities through successive updates, but these updates can also introduce new risks and weaken existing safeguards. In line with the AI-45{\deg} Law
